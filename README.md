@@ -18,12 +18,12 @@
 </div>
 
 ### About me
-- 🚀 Backend developer specializing in Python/Go
-- 🔫 "I hate bugs but love hunting them down"
-- 🏗️ Building fault-tolerant systems worthy of production
-- 💡 Automating everything that moves (and things that don't too)
-- 📚 Learning daily - from low-level optimizations to architectural patterns
-- 🎯 Open to cooperation on interesting projects
+- 🚀 Backend Developer | Python & Go Enthusiast
+- 🔍 “Debugging with precision and a touch of detective work”
+- 🏗️ Crafting resilient systems built to withstand real-world chaos
+- ⚡ Automation advocate - streamlining workflows one script at a time
+- 🚀 Lifelong learner exploring everything from optimization to design patterns
+- 🤝 Available for collaboration on innovative projects
 ---
 
 ### Languages and tools
