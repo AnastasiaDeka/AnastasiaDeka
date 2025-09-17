@@ -18,7 +18,7 @@
 </div>
 
 ### About me
-- 🚀 Backend Developer | Python & Go Enthusiast
+- 🤖 Backend Developer | Python & Go Enthusiast
 - 🔍 “Debugging with precision and a touch of detective work”
 - 🏗️ Crafting resilient systems built to withstand real-world chaos
 - ⚡ Automation advocate - streamlining workflows one script at a time
